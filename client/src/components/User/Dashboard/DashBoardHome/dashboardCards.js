@@ -1,10 +1,9 @@
-import { faGem, faInfoCircle, faPlaneDeparture, faShippingFast, faTable, faWarehouse } from "@fortawesome/free-solid-svg-icons";
+import { faGem, faInfoCircle, faShippingFast, faTable, faWarehouse } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { HashLink } from "react-router-hash-link";
 import React, {useState, useEffect} from "react";
 import "../dashboard.css";
 import axios from "axios"
-import LogisticsQuotation from "../../../Forms/LogisticsQuotation/LogisticsQuotation";
 
 const DashboardCards = () => {
 
