@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey" : "",
+    "requiresAuth": false,
+    "DB":"mongodb+srv://Rhino:*Rhino2021!@cluster0.thj0z.mongodb.net/test",
+    "NODE_ENV": ""
+}
